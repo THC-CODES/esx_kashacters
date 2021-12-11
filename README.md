@@ -2,7 +2,7 @@
 ESX Multi Character
 
 # THC #
-# https://github.com/THCVP/esx_atm #
+# https://discord.gg/edEHxu9thw #
 
 # Edited Version of esx_kashacters Done By: THC
 # Updated to fxmanifest
