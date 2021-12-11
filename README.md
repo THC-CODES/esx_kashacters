@@ -1,10 +1,11 @@
 # esx_kashacters
 ESX Multi Character
 
-# -----THC----- #
+# THC #
 
 # Edited Version of esx_kashacters Done By: THC
-
+# Updated to fxmanifest
+------------------------------------------------
 
 # KASHacters - ESX Multi Characters
 
